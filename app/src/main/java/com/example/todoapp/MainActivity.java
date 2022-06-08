@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         Button button = findViewById(R.id.button);
 
         // TextView の設定
+        // messeage
         textView = findViewById(R.id.text_view);
 
 //        button.setOnClickListener(new View.OnClickListener() {
