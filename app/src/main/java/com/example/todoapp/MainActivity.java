@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // ボタンを設定
+        // testMessage
         Button button = findViewById(R.id.button);
 
         // TextView の設定
